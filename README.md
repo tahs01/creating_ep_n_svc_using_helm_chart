@@ -8,4 +8,4 @@
 [Artifact Hub](https://artifacthub.io/)
 ### File Structure
 
-![Screenshot from 2023-08-23 15-07-27.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d6310b2-d441-4924-92ed-eabf219392ca/Screenshot_from_2023-08-23_15-07-27.png)
+![image](https://github.com/tahs01/creating_ep_n_svc_using_helm_chart/assets/131392064/0ac655d1-6c8c-4478-9a9c-e60cb0b0623e)
